@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Closest710
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Closest710/Closest710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m @WaZzA
+- 📫 How to reach me @WaZzA#3333
+- 🧑‍💻Binance Pump Bot developer
+WaZzA/WaZzA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->Binance Pump Bot developer
+
